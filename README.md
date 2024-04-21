@@ -1,18 +1,22 @@
 # Edtech-LearnOktopus
 
-# Gemma Model for Causal Language Modeling
+# LearnOktopus
 
-Welcome to Gemma Model for creating a Learning path with a Causal Language Modeling README! In this document, we introduce our system, which is designed to evaluate prior knowledge on a given topic from an input text and propose a personalized learning path based on the desired duration. Our system also includes periodic knowledge testing, creation of sticky notes to reinforce concept memorization, and performance graphs to track learning progress across different areas. Furthermore, the system updates itself based on user responses to tests, providing a reinforcing learning experience.
+Welcome to the LearnOtktopus platform! LearnOktopus is a platform to support your learning, helping you to follow a path tailored to your needs to learn whatever you need most efficiently.
+
+In this document, we introduce our system, which is designed to evaluate prior knowledge on a given topic from an input text and propose a personalized learning path based on the desired duration. 
+
+It also includes periodic knowledge testing, the creation of sticky notes to reinforce concept memorization, and performance graphs to track learning progress across different areas. Furthermore, the system updates itself based on user responses to tests, providing a reinforcing learning experience.
 
 ## Features
 
-- **Prior Knowledge Assessment**: Utilizes Gemma model for causal language modeling to assess prior knowledge on a given topic from an input text.
+- **Prior Knowledge Assessment**: Utilizes Gemma model for causal language modelling to assess prior knowledge on a given topic from an input text.
   
 - **Learning Path Generation**: Proposes a personalized learning path based on the user's desired duration and assessed prior knowledge.
   
-- **Periodic Testing**: Includes regular knowledge testing to track learning progress and identify areas for improvement.
+- **Periodic Testing**: Includes regular knowledge testing produced with Gemma to track learning progress and identify areas for improvement.
   
-- **Sticky Notes Creation**: Generates sticky notes based on the user's learning journey to reinforce concept memorization.
+- **Sticky Notes Creation**: Generates sticky notes with Gemma based on the user's learning journey to reinforce concept memorization.
   
 - **Learning Performance Graphs**: Provides visual representations of learning performance across different areas to track progress over time.
   
